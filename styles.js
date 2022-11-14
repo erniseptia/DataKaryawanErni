@@ -16,6 +16,12 @@ const styles = StyleSheet. create({
         fontWeight:'bold',
         color:'gray'
     },
+    ContainerImage: {
+        width: '100%',
+        height:'80%',
+        overflow:'hidden'
+    },
+
     image: {
         width:'100%',
         height:'100%',
